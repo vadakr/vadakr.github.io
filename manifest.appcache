@@ -1,0 +1,18 @@
+CACHE MANIFEST
+#DEV.5387
+
+CACHE:
+css/style.css
+js/app.js
+js/controllers.js
+js/services.js
+lib/ionic/css/ionic.css
+lib/ionic/js/ionic.bundle.js
+templates/chat-detail.html
+templates/tab-account.html
+templates/tab-chats.html
+templates/tab-dash.html
+templates/tabs.html
+
+NETWORK:
+*
